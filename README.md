@@ -1,1 +1,1 @@
-# project1-image-recognition
+# project1
